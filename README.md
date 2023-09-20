@@ -2,7 +2,7 @@
 
 In order to order and demonstrate my skills in Next.JS. This repo will used for saving Next.js course content from Udemy.
 
-
+# General Info of the current repository
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
