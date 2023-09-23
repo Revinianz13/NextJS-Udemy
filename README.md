@@ -1,6 +1,6 @@
-# Purpose of the Repository
+# Purpose of the Branch
 
-In order to order and demonstrate my skills in Next.JS. This repo will used for saving Next.js course content from Udemy.
+Here i will host the module #2 of the course!
 
 # General Info of the current repository
 
