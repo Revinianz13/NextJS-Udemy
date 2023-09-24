@@ -1,6 +1,6 @@
 # Purpose of the Branch
 
-Here i will host the module #2 of the course!
+Here i will host the module #3 of the course!
 
 # General Info of the current repository
 
