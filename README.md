@@ -1,7 +1,7 @@
 # Purpose of the Branch
 
-Here i will host the module #4 of the next js course.
-This course is about optimized Next.js apps
+Here i will host the module #5 of the next js course.
+This course section i about adding back end logic to Next projects
 
 # General Info of the current repository
 
